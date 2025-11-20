@@ -1,0 +1,167 @@
+    1  pwd
+    2  exit
+    3  touch ficheiro.txt
+    4  ls
+    5  cat ficheiro.txt
+    6  echo "Tiago Rodrigues 132103 02/10/2025" > arquivo.txt
+    7  cat arquivo.txt
+    8  echo "Tiago Rodrigues" > arquivo.txt
+    9  echo "132103" > arquivo.txt
+   10  echo "02/10/2025" > arquivo.txt
+   11  cat arquivo.txt
+   12  echo "132103" >> arquivo.txt
+   13  echo "Tiago Rodrigues" >> arquivo.txt
+   14  cat arquivo.txt
+   15  exit
+   16  sudo apt update
+   17  sudo apt upgrade -y
+   18  sudo apt install apache2 -y
+   19  sudo systemctl status apache2
+   20  sudo systemctl start apache2
+   21  sudo systemctl enable apache2
+   22  dir
+   23  ls
+   24  mkdir FILE
+   25  ls
+   26  move arquivo.txt/FILE
+   27  cp ar
+   28  move arquivo /FILE
+   29  pwd
+   30  m
+   31  mv arquivo /FILE
+   32  mv arquivo.txt /FILE
+   33  ch mod
+   34  git --version
+   35  git clone git@github.com:tiagoagrodrigues/LI2025-Teste03.git
+   36  git clone https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+   37  dir
+   38  cd LI2025-Teste03/
+   39  mkdir A132103
+   40  dir
+   41  cd A132103/
+   42  touch README.md
+   43  cat Teste de LI 2025/2026.
+   44  cat README.md>Teste de LI 2025/2026.
+   45  cat README.md Teste de LI 2025/2026.
+   46  echo>> README.md Teste de LI 2025/2026.
+   47  cat README.md 
+   48  dir
+   49  ls
+   50  cd --
+   51  cd -
+   52  cd
+   53  cd LI2025-Teste03/
+   54  cd back
+   55  cd --
+   56  cd -
+   57  cd LI2025-Teste03/A132103/
+   58  cd..
+   59  cd ..
+   60  git add .
+   61  git stats
+   62  git status
+   63  git commit -m "2ª tarefa concluída"
+   64  git push origin main
+   65  git commit -m "2ª tarefa concluída"
+   66  git pull origin main
+   67  history > meusComandosAzure.txt
+   68  cat meusComandosAzure.txt
+   69  dir
+   70  ls
+   71  cd A132103/
+   72  ls
+   73  cat meusComandosAzure.txt
+   74  history > meusComandosAzure.txt
+   75  cat meusComandosAzure.txt
+   76  git add
+   77  git push origin main 
+   78  ls
+   79  cd .
+   80  cd..
+   81  cd ..
+   82  git push origin main 
+   83  ls
+   84  cd A132103/
+   85  git push origin main 
+   86  git push origin main
+   87  git add
+   88  git pull
+   89  git history > meuscomandosazure.txt
+   90  pdw
+   91  PDW
+   92  ls
+   93  mkdir li2025-Teste03
+   94  ls
+   95  cd li2025-Teste03/
+   96  git clone git@github.com:tiagoagrodrigues/LI2025-Teste03.gi
+   97  git clone https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+   98  cd .
+   99  https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+  100  git@github.com:tiagoagrodrigues/LI2025-Teste03.git
+  101  cd
+  102  ls
+  103  mkdir A132103
+  104  ls
+  105  cd A132103/
+  106  ls
+  107  touch README.txt
+  108  ls
+  109  echo  Teste de LI 2025/2026
+  110  ls
+  111  cat README.txt 
+  112  echo  README.txt Teste de LI 2025/2026
+  113  cat README.txt 
+  114  echo "Teste de LI 2025/2026" > README.txt
+  115  cat README.txt 
+  116  cd
+  117  git add A132103/
+  118  cd A132103/
+  119  git clone git@github.com:tiagoagrodrigues/LI2025-Teste03.git
+  120  git cone https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+  121  git clone https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+  122  git init
+  123  git add README.md
+  124  git clone https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+  125  pwd
+  126  cd ..
+  127  git clone https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+  128  ls
+  129  cd li2025-Teste03/
+  130  git clone https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+  131  ls
+  132  mkdir teste
+  133  cd teste
+  134  git clone https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+  135  mkdir A132103
+  136  ls
+  137  dir
+  138  cd A132103/
+  139  echo "Teste de LI 2025/2026." > README.md
+  140  git add .
+  141  git commit -m "2ª tarefa concluída"
+  142  ls
+  143  cd ..
+  144  git add .
+  145  cd ..
+  146  git add .
+  147  git clone git@github.com:tiagoagrodrigues/LI2025-Teste03.git
+  148  git status
+  149  ls -all
+  150  cd LI2025-Teste03/
+  151  git status
+  152  mkdir A132103
+  153  ls A132103/
+  154  touch README.md
+  155  echo "Teste de LI 2025/2026" > README.md 
+  156  ls
+  157  mv README.md > A132103/
+  158  cd A132103/
+  159  touch README.md
+  160  echo "Teste de LI 2025/2026" > README.md 
+  161  cd ..
+  162  git add.
+  163  git add .
+  164  git commit -m "2ª tarefa concluída"
+  165  git push origin main
+  166  git pull origin main
+  167  history > meusComandosAzure.txt
