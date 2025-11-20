@@ -1,0 +1,18 @@
+NOME: Tiago Afonso Gomes Rodrigues
+NMEC: 132103
+
+2 Tarefa
+
+1.mkdir A132103
+2.touch README.md
+3.echo>> README.md Teste de LI 2025/2026.
+4.cd ..
+5.git commit -m "2ª tarefa concluída"
+git push origin main
+
+3 Tarefa 
+
+1.mkdir LI3
+2. Clear-History
+3.git clone https://github.com/tiagoagrodrigues/LI2025-Teste03.git
+
